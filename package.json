@@ -55,7 +55,7 @@
     "bcrypt-nodejs": "0.0.3",
     "bluebird": "^2.4.0",
     "body-parser": "^1.10.0",
-    "bookshelf": "^0.7.9",
+    "bookshelf": "^0.15.2",
     "codemirror": "^4.8.0",
     "config": "^1.9.0",
     "connect": "^3.3.3",
