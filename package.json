@@ -94,6 +94,6 @@
     "supertest-as-promised": "^1.0.0",
     "underscore.string": "^2.4.0",
     "wrench": "^1.5.8",
-    "ws": "^0.6.3"
+    "ws": "^7.4.6"
   }
 }
