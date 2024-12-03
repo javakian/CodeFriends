@@ -73,7 +73,7 @@
     "lodash": "^2.4.1",
     "lodash-contrib": "^241.4.14",
     "mkdirp": "^0.5.0",
-    "mocha": "^2.0.1",
+    "mocha": "^11.0.1",
     "moment": "^2.8.4",
     "mongodb": "^1.4.26",
     "morgan": "^1.5.0",
